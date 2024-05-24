@@ -9,7 +9,7 @@ I'm a freshman computer science major, currently learning Fullstack Development
 
 * 🌍  I'm based in Jakarta, Indonesia
 * ✉️  You can contact me at [https://www.linkedin.com/in/valtrizt/](mailto:https://www.linkedin.com/in/valtrizt/)
-* 🧠  I'm learning Javascript (Node.js, React), HTML/CSS, MySQL, MongoDB
+* 🧠  I'm learning Javascript/Typescript (Node.js, React), HTML/CSS (Tailwind), MySQL, Postgresql, and MongoDB
 * 🤝  I'm open to collaborating on Interesting Projects
 
 ### Skills
