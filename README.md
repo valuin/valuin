@@ -8,7 +8,8 @@ Fullstack Developer
 I'm a freshman computer science major, currently learning Fullstack Development
 
 * 🌍  I'm based in Jakarta, Indonesia
-* ✉️  You can contact me at [https://www.linkedin.com/in/valtrizt/](mailto:https://www.linkedin.com/in/valtrizt/)
+* ✉️  You can contact me at [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/valtrizt/) 
+
 # 💫 About Me:
 🔭 I’m currently working at KSM Android UPNVJ<br>👯 I’m looking to collaborate on both backend and frontend development<br>🌱 I’m currently learning fullstack development<br>💬 I'm open to collaborating on Interesting Projects<br>⚡ Fun fact : I was a Social Science Strand in High School
 
