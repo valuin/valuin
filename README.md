@@ -11,7 +11,7 @@ I'm a freshman computer science major, currently learning Fullstack Development
 * ✉️  You can contact me at [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/valtrizt/) 
 
 # 💫 About Me:
-🔭 I’m currently working at KSM Android UPNVJ<br>👯 I’m looking to collaborate on both backend and frontend development<br>🌱 I’m currently learning fullstack development<br>💬 I'm open to collaborating on Interesting Projects<br>⚡ Fun fact : I was a Social Science Strand in High School
+🔭 I’m currently working at KSM Android UPNVJ<br>👯 I’m looking to collaborate on both backend and frontend development<br>🌱 I’m currently learning React and NextJS for front end and Typescript and Postgresql for back end<br>💬 I'm open to collaborating on Interesting Projects<br>⚡ Fun fact : I was a Social Science Strand in High School
 
 
 ## 🌐 Socials:
