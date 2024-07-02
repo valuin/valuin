@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 My name is Valtrizt Khalifah
 ================================================================================================================================
 
-Fullstack Developer
+Aspiring Fullstack Developer
 -------------------
 
 I'm a freshman computer science major, currently learning Fullstack Development
@@ -30,8 +30,6 @@ I'm a freshman computer science major, currently learning Fullstack Development
 ![](https://github-readme-streak-stats.herokuapp.com/?user=valuin&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=valuin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=valuin&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=valuin&icon=0&color=5)](https://visitcount.itsvg.in)
