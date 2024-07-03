@@ -3,7 +3,7 @@
 </p>
 
 
-<h2 align="center">Hey! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Valtrizt!</h2>
+<h2 align="center">Hey! I'm Valtrizt!</h2> [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ###
 
