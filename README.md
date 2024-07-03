@@ -101,7 +101,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/valuin/valuin/output/snake.svg" alt="Snake animation" />
-
-###
