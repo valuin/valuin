@@ -8,12 +8,26 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=valuin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=valuin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="130" alt="languages graph"  />
 </div>
 
 ###
 
 <h4 align="center">Freshman CS major based in Jakarta, Indonesia<br>Currently learning Fullstack Development</h4>
+
+###
+
+<div align="center">
+  <a href="https://www.instagram.com/valtrizt/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/valtrizt/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:valvaltrizt@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="gmail logo"  />
+  </a>
+</div>
 
 ###
 
@@ -80,24 +94,6 @@
 ###
 
 <div align="left">
-</div>
-
-###
-
-<h3 align="center">Contact Me</h3>
-
-###
-
-<div align="center">
-  <a href="https://www.instagram.com/valtrizt/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="53" height="41" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/valtrizt/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="53" height="41" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:valvaltrizt@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="53" height="41" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
