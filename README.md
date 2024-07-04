@@ -2,9 +2,6 @@
     <img alt="Assassination of julius caesar" src="/githubbanner.jpg">
 </p>
 
-
-<h2 align="center">Hey! I'm Valtrizt!</h2>
-
 ###
 
 <div align="center">
