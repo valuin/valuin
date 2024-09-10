@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="center">Freshman CS major based in Jakarta, Indonesia<br>Currently learning Fullstack Development</h4>
+<h4 align="center">Second Year CS major based in Jakarta, Indonesia<br>Currently learning Fullstack Development</h4>
 
 ###
 
