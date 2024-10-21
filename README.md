@@ -2,6 +2,8 @@
     <img alt="Assassination of julius caesar" src="/githubbanner.jpg">
 </p>
 
+<h2 align="center">Hey! I'm Valtrizt!</h2>
+
 ###
 
 <div align="center">
@@ -10,7 +12,7 @@
 
 ###
 
-<h4 align="center">Second Year CS major based in Jakarta, Indonesia<br>Currently learning Fullstack Development</h4>
+<h4 align="center">Freshman CS major based in Jakarta, Indonesia<br>Currently learning Fullstack Development</h4>
 
 ###
 
@@ -21,7 +23,7 @@
   <a href="https://www.linkedin.com/in/valtrizt/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="linkedin logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/0/?source=mailto&to=valvaltrizt@gmail.com&fs=1&tf=cm" target="_blank">
+  <a href="mailto:valvaltrizt@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="gmail logo"  />
   </a>
 </div>
@@ -84,6 +86,14 @@
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
