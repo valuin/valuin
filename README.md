@@ -53,6 +53,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="43" alt="react logo"  />
   <img width="12" />
+  <img width="12" />
+  <img src="https://imgur.com/a/BnDdoiY" height="43" alt="react native logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="43" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="43" alt="vite logo"  />
