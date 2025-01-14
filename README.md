@@ -59,7 +59,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="43" alt="nextjs logo"  />
   <img width="12" />
   <img width="12" />
-  <img src="https://i.imgur.com/EVZo0Ez.png" height="43" alt="expo logo"  />
+  <img src="https://i.imgur.com/EVZo0Ez.png" height="60" alt="expo logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="43" alt="vite logo"  />
 </div>
