@@ -117,7 +117,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
   <img width="12" />
-  <img src="https://images.seeklogo.com/logo-png/42/2/cloudflare-pages-single-logo-png_seeklogo-426078.png" height="40" alt="cloudflare pages"  />
+  <img src="https://pages.cloudflare.com/resources/logo/logo.svg" height="40" alt="cloudflare pages"  />
   <img width="12" />
   <img src="https://workers.cloudflare.com/resources/logo/logo.svg" height="40" alt="cloudflare workers"  />
   <img width="12" />
