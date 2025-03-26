@@ -87,6 +87,8 @@
   <img width="12" />
   <img src="https://i.imgur.com/lVPmj4W.png" height="40" alt="elysia logo"  />
   <img width="12" />
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/hono-6ge6rolcrcsqnvk7r685s.png/hono-lni310gpnzm7h0sumu9xrk.png?_a=DAJFJtWIZAAC" height="40" alt="hono logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
