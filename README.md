@@ -1,5 +1,4 @@
 <a href="https://bentohub.netlify.app/" target="_blank"><img src="https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/67ecca060007922e89a9/preview?project=667d35ca0017fb21fc6c" /></a>
-
 <h2 align="center">Hey! I'm Valtrizt!</h2>
 
 ###
