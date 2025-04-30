@@ -74,7 +74,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="40" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo"  />
   <img width="12" />
@@ -121,6 +121,8 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://i.imgur.com/UyHkVWw.png" height="40" alt="linear logo"  />
   <img width="12" />
   <img src="https://pages.cloudflare.com/resources/logo/logo.svg" height="40" alt="cloudflare pages"  />
   <img width="12" />
