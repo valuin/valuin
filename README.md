@@ -5,13 +5,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=valuin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="130" alt="languages graph"  />
-</div>
-
-###
-
-<h4 align="center">Sophomore CS major based in Jakarta, Indonesia<br>Currently learning Fullstack Development</h4>
+<h4 align="center">Sophomore CS major based in Jakarta, Indonesia<br>Product Minded Software Engineer</h4>
 
 ###
 
@@ -52,13 +46,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="43" alt="react logo"  />
   <img width="12" />
-  <img src="https://i.imgur.com/N5CGu4h.png" height="43" alt="react native logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="43" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://i.imgur.com/EVZo0Ez.png" height="43" alt="expo logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" height="43" alt="react router logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="43" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://i.imgur.com/EVZo0Ez.png" height="43" alt="expo logo"  />
+  <img src="https://i.imgur.com/N5CGu4h.png" height="43" alt="react native logo"  />
+  <img width="12" />
 </div>
 
 ###
