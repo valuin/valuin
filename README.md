@@ -53,6 +53,7 @@
   <img src="https://skillicons.dev/icons?i=vite" height="43" alt="vite logo"  />
   <img width="12" />
   <img src="https://i.imgur.com/EVZo0Ez.png" height="43" alt="expo logo"  />
+  <img width="12" />
   <img src="https://i.imgur.com/N5CGu4h.png" height="43" alt="react native logo"  />
   <img width="12" />
 </div>
