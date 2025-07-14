@@ -48,6 +48,8 @@
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" height="43" alt="zustand logo"  />
   <img width="12" />
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*elhu-42TzQEdsFjKDbQhhA.png" height="43" alt="react query logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="43" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="43" alt="nextjs logo"  />
