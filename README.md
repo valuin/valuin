@@ -129,7 +129,7 @@
   <img width="12" />
   <img src="https://pages.cloudflare.com/resources/logo/logo.svg" height="40" alt="cloudflare pages"  />
   <img width="12" />
-  <img src="https://workers.cloudflare.com/resources/logo/logo.svg" height="40" alt="cloudflare workers"  />
+  <img src="https://i.imgur.com/921BcO2.png" height="40" alt="cloudflare workers"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="12" />
