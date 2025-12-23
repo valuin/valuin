@@ -5,7 +5,7 @@
 
 ###
 
-<h4 align="center">Junior CS major based in Jakarta, Indonesia<br>Product Minded Software Engineer</h4>
+<h4 align="center">Junior Year CS major based in Jakarta, Indonesia<br>Product Minded Software Engineer</h4>
 
 ###
 
@@ -45,6 +45,8 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="43" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://wxt.dev/hero-logo.svg" height="43" alt="wxt logo"  />
+  <img width="12" />
+  <img src="https://i.imgur.com/NId23A7.png" height="43" alt="lit logo"  />
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" height="43" alt="zustand logo"  />
   <img width="12" />
