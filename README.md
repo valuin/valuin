@@ -151,6 +151,8 @@
   <img width="12" />
   <img src="https://devicons.railway.com/i/railway-light.svg" height="40" alt="railway logo"  />
   <img width="12" />
+  <img src="https://files.raycast.com/83i2w4in6yeldptw11g5ecsmap1l" height="40" alt="dokploy logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
@@ -162,6 +164,8 @@
   <img src="https://cdn.simpleicons.org/sentry/362D59" height="40" alt="sentry logo"  />
   <img width="12" />
   <img src="https://i.imgur.com/PB1KYXf.png" height="40" alt="biome logo"  />
+  <img width="12" />
+  <img src="https://bestofjs.org/logos/oxc.dark.svg" height="40" alt="oxc logo"  />
 </div>
 
 ###
