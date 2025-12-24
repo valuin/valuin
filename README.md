@@ -56,6 +56,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="43" alt="nextjs logo"  />
   <img width="12" />
+  <img src="https://tanstack.com/images/logos/logo-color-banner-600.png" height="43" alt="tanstack logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" height="43" alt="react router logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="43" alt="vite logo"  />
@@ -85,7 +87,11 @@
   <img width="12" />
   <img src="https://i.imgur.com/cTpPPL2.png" height="40" alt="tinybase logo"  />
   <img width="12" />
+  <img src="https://qdrant.tech/img/brand-resources-logos/qdrant-brandmark-red.png" height="40" alt="qdrant logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/svg/RabbitMQ.svg" height="40" alt="rabbitmq logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
