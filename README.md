@@ -103,6 +103,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/langchain.png" height="40" alt="langchain logo"  />
+  <img width="12" />
+  <img src="https://ai-sdk.dev/apple-icon.png?6cd1287311014dd7" height="40" alt="ai sdk logo"  />
+  <img width="12" />
+  <img src="https://media.licdn.com/dms/image/v2/D560BAQGXzI4c3FMP4Q/company-logo_200_200/B56ZpvUV0AI8AI-/0/1762804194897/mastra_ai_logo?e=2147483647&v=beta&t=b1Kbl1GVZsaO_8xhna3Fc2EUDm0uwTzlnMjzpTfau2A" height="40" alt="mastra logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
   <img width="12" />
   <img src="https://images.opencollective.com/drizzle-orm/9405e48/logo/256.png" height="40" alt="drizzle logo"  />
@@ -122,7 +128,7 @@
 
 <br clear="both">
 
-<h4 align="left">Tools</h4>
+<h4 align="left">Dev Tools & Infra</h4>
 
 ###
 
@@ -131,17 +137,25 @@
   <img width="12" />
   <img src="https://i.imgur.com/UyHkVWw.png" height="40" alt="linear logo"  />
   <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMLlNkfiVjeIdE8Sw7_GmVbxfOaqo-GnRX3w&s" height="40" alt="kilocode logo"  />
+  <img width="12" />
   <img src="https://pages.cloudflare.com/resources/logo/logo.svg" height="40" alt="cloudflare pages"  />
   <img width="12" />
   <img src="https://i.imgur.com/921BcO2.png" height="40" alt="cloudflare workers"  />
+  <img width="12" />
+  <img src="https://devicons.railway.com/i/railway-light.svg" height="40" alt="railway logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
+  <img src="https://devicons.railway.com/i/n8n.svg" height="40" alt="n8n logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/sentry/362D59" height="40" alt="sentry logo"  />
+  <img width="12" />
+  <img src="https://i.imgur.com/PB1KYXf.png" height="40" alt="biome logo"  />
 </div>
 
 ###
