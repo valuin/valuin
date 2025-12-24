@@ -85,6 +85,8 @@
   <img width="12" />
   <img src="https://i.imgur.com/cTpPPL2.png" height="40" alt="tinybase logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://i.imgur.com/x6VrALh.png" height="40" alt="bun logo"  />
