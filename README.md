@@ -158,7 +158,11 @@
   <img width="12" />
   <img src="https://i.imgur.com/UyHkVWw.png" height="40" alt="linear logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMLlNkfiVjeIdE8Sw7_GmVbxfOaqo-GnRX3w&s" height="40" alt="kilocode logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.94.0/icons/codex-color.svg" height="40" alt="codex logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.94.0/icons/claudecode-color.svg" height="40" alt="claude code logo"  />
+  <img width="12" />
+  <img src="https://pi.dev/logo-auto.svg" height="40" alt="pi coding agent logo"  />
   <img width="12" />
   <img src="https://pages.cloudflare.com/resources/logo/logo.svg" height="40" alt="cloudflare pages"  />
   <img width="12" />
