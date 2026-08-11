@@ -56,6 +56,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="43" alt="nextjs logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" height="43" alt="astro logo"  />
+  <img width="12" />
   <img src="https://tanstack.com/images/logos/logo-color-banner-600.png" height="43" alt="tanstack logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" height="43" alt="react router logo" />
@@ -99,11 +101,20 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://i.imgur.com/lVPmj4W.png" height="40" alt="elysia logo"  />
   <img width="12" />
   <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/hono-6ge6rolcrcsqnvk7r685s.png/hono-lni310gpnzm7h0sumu9xrk.png?_a=DAJFJtWIZAAC" height="40" alt="hono logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/zod/3E67B1" height="40" alt="zod logo"  />
+  <img width="12" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/better-auth/better-auth@b8077b74ef9a80a7757220b72834349bd8de05c0/docs/public/branding/svg/better-auth-mark-light.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/better-auth/better-auth@b8077b74ef9a80a7757220b72834349bd8de05c0/docs/public/branding/svg/better-auth-mark-dark.svg" height="40" alt="better auth logo" />
+  </picture>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -139,6 +150,10 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="40" alt="github actions logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" height="40" alt="vitest logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://i.imgur.com/UyHkVWw.png" height="40" alt="linear logo"  />
