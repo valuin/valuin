@@ -5,7 +5,7 @@
 
 ###
 
-<h4 align="center">Third Year CS major based in Jakarta, Indonesia<br>Product Minded Software Engineer</h4>
+<h4 align="center">Final Year CS major based in Jakarta, Indonesia<br>Product Minded Software Engineer</h4>
 
 ###
 
