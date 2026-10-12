@@ -128,7 +128,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
-  <img src="./assets/langchain.png" height="40" alt="langchain logo"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/langchain.png" />
+    <img src="./assets/langchain-light.png" height="40" alt="langchain logo" />
+  </picture>
   <img width="12" />
   <img src="./assets/ai-sdk.svg" height="40" alt="ai sdk logo"  />
   <img width="12" />
