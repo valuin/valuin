@@ -68,6 +68,10 @@
   <img width="12" />
   <img src="https://i.imgur.com/N5CGu4h.png" height="43" alt="react native logo"  />
   <img width="12" />
+  <img src="./assets/base-ui.svg" height="43" alt="Base UI logo" title="Base UI" />
+  <img width="12" />
+  <img src="./assets/motion.svg" height="43" alt="Motion logo" title="Motion" />
+  <img width="12" />
 </div>
 
 ###
@@ -86,6 +90,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo"  />
+  <img width="12" />
+  <img src="./assets/convex.svg" height="40" alt="Convex logo" title="Convex" />
   <img width="12" />
   <img src="https://i.imgur.com/cTpPPL2.png" height="40" alt="tinybase logo"  />
   <img width="12" />
@@ -111,6 +117,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/zod/3E67B1" height="40" alt="zod logo"  />
   <img width="12" />
+  <img src="./assets/effect.svg" height="40" alt="Effect logo" title="Effect" />
+  <img width="12" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/better-auth/better-auth@b8077b74ef9a80a7757220b72834349bd8de05c0/docs/public/branding/svg/better-auth-mark-light.svg" />
     <img src="https://cdn.jsdelivr.net/gh/better-auth/better-auth@b8077b74ef9a80a7757220b72834349bd8de05c0/docs/public/branding/svg/better-auth-mark-dark.svg" height="40" alt="better auth logo" />
@@ -120,9 +128,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/langchain.png" height="40" alt="langchain logo"  />
+  <img src="./assets/langchain.png" height="40" alt="langchain logo"  />
   <img width="12" />
-  <img src="https://ai-sdk.dev/apple-icon.png?6cd1287311014dd7" height="40" alt="ai sdk logo"  />
+  <img src="./assets/ai-sdk.svg" height="40" alt="ai sdk logo"  />
   <img width="12" />
   <img src="https://media.licdn.com/dms/image/v2/D560BAQGXzI4c3FMP4Q/company-logo_200_200/B56ZpvUV0AI8AI-/0/1762804194897/mastra_ai_logo?e=2147483647&v=beta&t=b1Kbl1GVZsaO_8xhna3Fc2EUDm0uwTzlnMjzpTfau2A" height="40" alt="mastra logo"  />
   <img width="12" />
@@ -154,6 +162,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" height="40" alt="vitest logo"  />
   <img width="12" />
+  <img src="./assets/playwright.svg" height="40" alt="Playwright logo" title="Playwright" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://i.imgur.com/UyHkVWw.png" height="40" alt="linear logo"  />
@@ -164,7 +174,7 @@
   <img width="12" />
   <img src="https://pi.dev/logo-auto.svg" height="40" alt="pi coding agent logo"  />
   <img width="12" />
-  <img src="https://pages.cloudflare.com/resources/logo/logo.svg" height="40" alt="cloudflare pages"  />
+  <img src="./assets/cloudflare-pages.svg" height="40" alt="cloudflare pages"  />
   <img width="12" />
   <img src="https://i.imgur.com/921BcO2.png" height="40" alt="cloudflare workers"  />
   <img width="12" />
